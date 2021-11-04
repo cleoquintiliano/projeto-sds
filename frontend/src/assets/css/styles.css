@@ -31,7 +31,3 @@ body {
 .text-primary {
   color: var(--color-primary) !important;
 }
-
-.link-decoration {
-  text-decoration: none;
-}

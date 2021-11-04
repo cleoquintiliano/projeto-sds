@@ -5,7 +5,7 @@ const Footer = () => {
         <p className="text-light">
           App desenvolvido por{" "}
           <a
-            className="link-decoration"
+            className="text-decoration-none"
             href="https://github.com/cleoquintiliano"
             target="_blank"
             rel="noreferrer"
@@ -19,7 +19,7 @@ const Footer = () => {
             <br />
             Evento promovido pela escola DevSuperior:{" "}
             <a
-              className="link-decoration"
+              className="text-decoration-none"
               href="https://www.linkedin.com/in/cleoquintiliano/"
               target="_blank"
               rel="noreferrer"
